@@ -4,26 +4,28 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Quantitative Literacy and Social Issues (QLSI)
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Develop capacities of quantitative reasoning to interpret, analyze, apply, and explain data (information) presented in mathematical forms;
+- Recognize and evaluate assumptions in estimation, modeling, and data analysis;
+- Calculate mathematical problems, and communicate quantitative evidence in support of an argument;
+- Apply quantitative reasoning skills using data analysis, probability, and statistics through examples related to current world debates, inquiries, and problems;
+- Gain and act with confidence to work through problems using quantitative reasoning.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [QL 1.1] |  Mathematical Thinking and Quantitative Reasoning | 3.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[QL 1.1] - The goal of Mathematical Thinking and Quantitative Reasoning is to help students develop intellectual mathematical abilities as well as see mathematics as a method to address current problems including social problems. Understanding how people learn from data will change the way students think about the world. Students will use state of the art data exploratory methods to analyze real data. Topics will include modern statistical reasoning, statistical modeling, linear regression, statistical inference, logarithmic and exponential modeling, and the conditions for inference which must hold in order to use statistical procedures. Other topics include logical reasoning, analysis of arguments, probability.
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[QL 1.1]:http://make.sc/ql1.1
 
 
 ## Make School Course Policies
