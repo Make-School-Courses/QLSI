@@ -20,12 +20,14 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  QL 1.1 |  Mathematical Thinking and Quantitative Reasoning | [Spring 2021] | 3.00 Units |
 |  QL 1.1 |  Mathematical Thinking and Quantitative Reasoning | [Fall 2020] | 3.00 Units |
 
 QL 1.1 - The goal of Mathematical Thinking and Quantitative Reasoning is to help students develop intellectual mathematical abilities as well as see mathematics as a method to address current problems including social problems. Understanding how people learn from data will change the way students think about the world. Students will use state of the art data exploratory methods to analyze real data. Topics will include modern statistical reasoning, statistical modeling, linear regression, statistical inference, logarithmic and exponential modeling, and the conditions for inference which must hold in order to use statistical procedures. Other topics include logical reasoning, analysis of arguments, probability.
 
 
 [Fall 2020]:http://make.sc/ql1.1
+[Spring 2021]:http://make.sc/ql1.1
 
 
 ## Make School Course Policies
